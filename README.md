@@ -1,1 +1,0 @@
-# Program-to-check-equivalence-of-two-numbers-using-conditional-operators-
